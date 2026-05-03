@@ -1,0 +1,13 @@
+{
+  "name": "world-time-zone-app",
+  "version": "1.0.0",
+  "description": "Global time zone checker with animations",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "live-server",
+    "dev": "live-server"
+  },
+  "dependencies": {
+    "gsap": "^3.12.5"
+  }
+}

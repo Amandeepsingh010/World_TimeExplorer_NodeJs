@@ -42,6 +42,13 @@ world-time-app/
 └── public/
 └── flags/
 
+<img width="1919" height="557" alt="Screenshot 2026-05-04 104807" src="https://github.com/user-attachments/assets/09c9c66c-26d4-4765-a7a0-ac6351778614" />
+<img width="1915" height="475" alt="Screenshot 2026-05-04 104754" src="https://github.com/user-attachments/assets/88cad79a-204a-438d-8c72-bb409899839c" />
+<img width="1889" height="945" alt="Screenshot 2026-05-04 110602" src="https://github.com/user-attachments/assets/a57f43df-63fe-4d29-9e70-0424c2a5c3f3" />
+<img width="1887" height="945" alt="Screenshot 2026-05-04 104837" src="https://github.com/user-attachments/assets/7f367622-27f5-4f46-bd26-74c855f38f32" />
+
+<img width="1889" height="945" alt="Screenshot 2026-05-04 110602" src="https://github.com/user-attachments/assets/0b93d104-6d9d-46fb-806a-82a6b3e84c3e" />
+
 
 ---
 
@@ -108,10 +115,3 @@ git add .
 git commit -m "Added README and Docker optimization"
 git push origin main
 
-
-<img width="1919" height="557" alt="Screenshot 2026-05-04 104807" src="https://github.com/user-attachments/assets/09c9c66c-26d4-4765-a7a0-ac6351778614" />
-<img width="1915" height="475" alt="Screenshot 2026-05-04 104754" src="https://github.com/user-attachments/assets/88cad79a-204a-438d-8c72-bb409899839c" />
-<img width="1889" height="945" alt="Screenshot 2026-05-04 110602" src="https://github.com/user-attachments/assets/a57f43df-63fe-4d29-9e70-0424c2a5c3f3" />
-<img width="1887" height="945" alt="Screenshot 2026-05-04 104837" src="https://github.com/user-attachments/assets/7f367622-27f5-4f46-bd26-74c855f38f32" />
-
-<img width="1889" height="945" alt="Screenshot 2026-05-04 110602" src="https://github.com/user-attachments/assets/0b93d104-6d9d-46fb-806a-82a6b3e84c3e" />
